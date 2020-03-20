@@ -9,7 +9,7 @@ Min insperation var vanliga antäckningar.
 
 Bakgrund
 
-Jag har använt mig av java och den där gui design grejen i intellij.
+Jag har använt java boken och internet.
 
 Berätta om ditt planeringsarbete.
 
