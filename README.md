@@ -22,7 +22,7 @@ Jag frågade mina kompanjoner hur fönstret såg ut många gånger under detta p
 
 Positiva erfarenheter
 
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför.
+Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. gui grejen gjorde det möjligt att skapa ett fönster och det var lätt.
 
 Det gick bra i början med design saken i intellij, sen så gick det bra i början av kodningen sen så sprängdes allt.
 Negativa erfarenheter
